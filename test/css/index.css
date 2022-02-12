@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+.blue {
+  color: #0032DA;
+}
+
+.dark-blue {
+  color: #06007E;
+}
+
+.dark-dark-blue {
+  color: #00124D;
+}
+
+.red {
+  color: #FF0000;
+}
+
+.gold {
+  color: #C79300;
+}
+
+.bg-blue {
+  background-color: #0032DA;
+}
+
+.bg-dark-blue {
+  background-color: #06007E;
+}
+
+.bg-dark-dark-blue {
+  background-color: #00124D;
+}
+
+.bg-dark {
+  background-color: #273444;
+}
+
+.bg-red {
+  background-color: #FF0000;
+}
+
+.bg-yellow {
+  background-color: #ffc82c;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.btn-blue {
+  color: white;
+  background-color: #0032DA;
+  text-align: center;
+  font-family: "orbitron", "sans-serif";
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.border-blue-white {
+  color: #0032DA;
+  background-color: white;
+  border-color: #0032DA;
+}
+
+.border-white-blue {
+  color: white;
+  background-color: #0032DA;
+  border-color: white;
+}

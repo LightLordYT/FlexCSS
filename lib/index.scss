@@ -1,0 +1,28 @@
+// Copyright LightLord 2022 ©
+//FlexCSS is the Ultimate CSS Framework to suit your needs
+//- Fully customizable and easy to use
+//- Suitable for beginners and advanced alike
+
+//Variables and functions
+@import 'vars';
+//Colors Classes
+@import 'colors';
+//Fonts
+@import 'fonts';
+//Utilites
+@import 'utils';
+//Default Components
+@import 'components/button';
+
+.border-blue-white {
+  color: $blue;
+  background-color: white;
+  border-color: $blue;
+}
+
+.border-white-blue {
+  color: white;
+  background-color: $blue;
+  border-color: white;
+}
+
